@@ -123,4 +123,4 @@ In this lesson, we saw how to write methods to select our associated data.  We s
 + [MDN Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 + [MDN Find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-object-oriented-object-relations-methods-readme'>Object Relations Methods Readme</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Association Methods in Javascript</p>

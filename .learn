@@ -6,3 +6,5 @@ languages:
   - javascript
 resources: 
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-object-oriented-object-relations-methods-readme.git
